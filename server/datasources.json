@@ -1,0 +1,9 @@
+{
+  "amazons3": {
+    "name": "amazons3",
+    "connector": "loopback-component-storage",
+    "provider": "amazon",
+    "key": "++",
+    "keyId": ""
+  }
+}
